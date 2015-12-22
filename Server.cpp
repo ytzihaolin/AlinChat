@@ -389,6 +389,6 @@ void CommandManul(int ClientNum){//help manual
 
 
 
-
+//thanks
 
 
